@@ -27,7 +27,8 @@ npx cypress open
 ```
 
 5. Click the Test1.....Test5.js to run the test (Individually or click on Run 5 Integration spec on right side to execute all the testcase all together)
-![image](https://user-images.githubusercontent.com/87099219/143309454-9c164017-3a3b-44a7-945d-a075a7d0d921.png)
+
+![CypressImage](https://user-images.githubusercontent.com/98128030/154832935-47d035b5-547a-44fd-838f-241eae7dae5e.PNG)
 
  
 
